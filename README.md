@@ -9,7 +9,9 @@ Additionally, a Fitts Law analysis was conducted to evaluate the efficiency of b
 ### Experimental Setup
 The Unity project consisted of a series of circular targets varying in size and distance apart which the user
 has to click as quickly and as efficiently as possible. Each of the three participants performed this task
-mulitple times with both devices. 
+mulitple times with both devices. Gameplay of the experiment can be downloaded from the link below.
+
+![Gameplay Download Link](gameplay.mp4)
 
 ### Data Collection
 Data was collected by saving the ingame information to a CSV file which was later anaylized using Google Sheets. The Fitts Law index of difficulty (ID) was calculated based on the distance to the target 
